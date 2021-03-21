@@ -9,5 +9,5 @@ def Solution(string):
     return (str(res))
 
 
-print(Solution("geeksforgeeks"))
+print(Solution("HelloWorld"))
     
